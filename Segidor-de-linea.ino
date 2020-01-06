@@ -72,5 +72,3 @@ void loop() {
 
   
 }
-//Derechos reservados Jona's industries y asociados
-    
